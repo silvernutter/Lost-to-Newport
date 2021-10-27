@@ -20343,7 +20343,7 @@
             "playerHit3Script": [],
             "id": "48d86b40-1a83-49c8-882b-b73e3917fe73",
             "x": 1074.7999877929688,
-            "y": 267.6000061035156,
+            "y": 268.1000061035156,
             "actors": [
                 {
                     "name": "Health Indicator",
@@ -22697,7 +22697,7 @@
             "playerHit3Script": [],
             "id": "13cb07f0-df3a-4b2b-a666-b90898f9012c",
             "x": 1281.5,
-            "y": 267.5,
+            "y": 268,
             "actors": [
                 {
                     "name": "Door",
@@ -36553,8 +36553,8 @@
         "startDirection": "right",
         "showCollisions": true,
         "showConnections": "selected",
-        "worldScrollX": 2001,
-        "worldScrollY": 131,
+        "worldScrollX": 70,
+        "worldScrollY": 817,
         "zoom": 200,
         "customColorsEnabled": true,
         "customHead": "",
