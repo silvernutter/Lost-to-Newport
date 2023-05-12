@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="12" height="10" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="1">
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="12" height="10" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="1">
  <tileset firstgid="1" source="../Master Tileset.tsx"/>
  <layer id="1" name="bot" width="12" height="10">
   <data encoding="csv">
@@ -25,7 +25,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,
+0,18,18,18,18,18,18,18,18,18,18,0,
 0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
@@ -39,7 +39,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,
-0,14,24,5,24,231,232,232,232,233,30,0,
+0,18,18,18,18,18,18,18,18,18,18,0,
 0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
